@@ -1,1 +1,5 @@
-1.0.0
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/vexikoff/wix-launcher/releases/latest/download/WIX.LAUNCHER-portable.exe",
+  "changelog": "Initial release"
+}
